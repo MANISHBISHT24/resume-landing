@@ -43,4 +43,4 @@ npx serve .
 
 ## Live site
 
-Live: https://manishbisht24.github.io/resume-landing/
+Live: https:https://manishbisht24.github.io/resume-landing/

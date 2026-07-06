@@ -36,11 +36,6 @@ static server, e.g.:
 ```bash
 npx serve .
 ```
-
-## Screenshot
-
-![ResumeFlow homepage screenshot](images/screenshot.png)
-
 ## Live site
 
 Live: https:https://manishbisht24.github.io/resume-landing/

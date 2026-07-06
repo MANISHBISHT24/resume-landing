@@ -1,0 +1,6 @@
+// script.js
+// Scope for this weekend build: no event handlers yet.
+// We just reach into the page and set content using querySelector + textContent.
+
+const yearEl = document.querySelector("#year");
+yearEl.textContent = new Date().getFullYear();
